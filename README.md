@@ -8,7 +8,8 @@ Please provide your MetaMask wallet address:
 
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
-<img width="334" alt="Screenshot 2024-02-21 231219" src="https://github.com/HaoWen46/2024-Spring-HW0/assets/89247904/d050a72f-a603-4db3-9b0d-d11bad1fee47">
+<img width="347" alt="Screenshot 2024-02-21 232602" src="https://github.com/HaoWen46/2024-Spring-HW0/assets/89247904/663fe6ea-6d76-4d92-9c1f-b28ca6ce70f8">
+
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
